@@ -1,0 +1,11 @@
+output:
+    filename: abfuhr.jpg
+
+fonts:
+    small: fonts/VeraSe12.pil
+    big: fonts/VeraSe18.pil
+
+openepaperlink:
+    apip: 192.168.178.30
+    mac: 026d29c13b16
+

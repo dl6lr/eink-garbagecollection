@@ -1,0 +1,865 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-////NONSGML kigkonsult.se iCalcreator 2.29.30//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+UID:87a90aee-36e5-4789-9ad5-42d3947d3cdd
+BEGIN:VEVENT
+UID:59755f7c-de9d-435e-9b8e-0b514887f1bf
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230103
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Restabfall 40L-80L(4-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:edeec9d5-fba6-4e82-a9fd-5d731c11d8d3
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230131
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Restabfall 40L-80L(4-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:62d9f8f5-c387-429e-8260-460a998da69f
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230228
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Restabfall 40L-80L(4-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:d3681633-900d-4d78-96bc-2681a1815b5e
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230328
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Restabfall 40L-80L(4-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:23c2b7e7-aaa8-46b2-b296-5633a97bba73
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230425
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Restabfall 40L-80L(4-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:7d736675-5f23-430d-96d6-52e87bed4cd8
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230523
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Restabfall 40L-80L(4-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:db2e984f-d179-49c8-88cd-e132befcb025
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230620
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Restabfall 40L-80L(4-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:41e68d59-1f9b-45dc-b828-7ccab19fb9a8
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230718
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Restabfall 40L-80L(4-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:cc4bbbd1-8eef-4c12-8f2b-8612dec86543
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230815
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Restabfall 40L-80L(4-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:39f9abe9-37ff-47ae-a425-b6cb9eaeafe3
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230912
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Restabfall 40L-80L(4-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:7228e29e-71be-44e9-94ec-2bbc18b97083
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20231010
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Restabfall 40L-80L(4-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:d5812071-ab70-4d6b-9ebb-59c4a00c5620
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20231107
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Restabfall 40L-80L(4-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:7bff72f3-e1af-44c8-a05c-899f8efb24f8
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20231205
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Restabfall 40L-80L(4-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:6047ff59-6d16-484e-8a07-4d176417573d
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230105
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Bioabfall(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:f20d831c-fa33-446f-8d71-d61dc64bfad3
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230119
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Bioabfall(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:443c6f86-1700-40e9-b810-23bb1a0cb339
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230202
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Bioabfall(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:c6e25c20-77f9-4c67-863e-be7e354756ad
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230216
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Bioabfall(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:12092b21-105e-49ec-ae8f-c8d95833e188
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230302
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Bioabfall(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:8f04f7d1-9679-4f96-9506-eda0b9fe2f7c
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230316
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Bioabfall(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:d24161c2-134a-453c-8893-7523b7b10e15
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230330
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Bioabfall(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:5e854009-8d9f-47fc-9328-7ce15bb9c38d
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230414
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Bioabfall(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:e688f1fc-5acd-410e-ad74-6fe2b5c0c6a3
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230427
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Bioabfall(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:349ecf2d-7170-4e3c-9256-bb6a6683f7fc
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230511
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Bioabfall(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:455c0e45-8de5-46ab-80e9-c36e89f58ca5
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230525
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Bioabfall(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:444816aa-8d7f-4c5c-9615-7a7e19ac7999
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230608
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Bioabfall(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:6e310cd6-db67-41ca-882e-2eefc56b02ed
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230622
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Bioabfall(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:223eb906-e7e5-4d9d-8730-a646c81b8b0d
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230706
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Bioabfall(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:03532377-c582-482f-8687-bab7e887379d
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230720
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Bioabfall(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:77f41e88-42a9-4ef8-b3fd-873dc358e00e
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230803
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Bioabfall(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:610d897a-e380-475c-8a1e-77c04736ae58
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230817
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Bioabfall(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:2c26e869-8607-4a13-ae14-282209a39a79
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230831
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Bioabfall(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:e18145a5-b808-4311-9c78-2230a3bbf424
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230914
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Bioabfall(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:c093e68e-2a61-4289-9161-37fb61be8c3b
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230928
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Bioabfall(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:3927c671-994a-4c1e-a480-1d9958e98379
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20231012
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Bioabfall(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:95d3c190-7915-47b6-93d0-e0e37f42b2d1
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20231026
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Bioabfall(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:64690e8d-2e1f-47d8-8d19-8fa9fd1ebc11
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20231109
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Bioabfall(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:1d209cba-7f6c-4ef4-9c7f-c19bbebfe0b2
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20231123
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Bioabfall(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:5418eb1b-4a6c-49d3-84f1-a37fe6d849f1
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20231207
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Bioabfall(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:7611b575-c6d1-472c-86e8-f4affd451d6f
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20231221
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Bioabfall(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:9f3e9cac-b762-48ae-b6cd-c502a0ba5d43
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230109
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Wertstoff/LVP(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:fff5d7de-d396-4d80-8f16-631c535ecf04
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230123
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Wertstoff/LVP(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:e0ad2d14-1741-4222-bdd4-c2dad60553c0
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230206
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Wertstoff/LVP(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:280d6f60-d94d-43f4-bbed-d502c1f9a3e0
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230220
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Wertstoff/LVP(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:c9949e11-605b-4697-ad95-7ae2eb630fba
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230306
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Wertstoff/LVP(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:c2c79e20-edfb-4642-8557-9978f63975da
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230320
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Wertstoff/LVP(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:18cf941e-e1ad-44a0-8b15-f766ab118bdb
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230403
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Wertstoff/LVP(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:b4b7a999-d326-43d0-99c7-32c7bbd5ad6c
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230417
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Wertstoff/LVP(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:9d7b8d05-1e3f-4221-82ef-d76eab49a529
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230502
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Wertstoff/LVP(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:2deb00e0-0345-4321-a3bd-97b8544d076c
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230515
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Wertstoff/LVP(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:464fec96-5b5a-47e2-9e73-07688c7a969c
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230530
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Wertstoff/LVP(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:f6d2ffda-786e-4a5c-b7f6-a76875f36d94
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230612
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Wertstoff/LVP(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:0f387470-6010-4b8f-8e81-515cabc460bd
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230626
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Wertstoff/LVP(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:b4ab63aa-35fb-49aa-b42e-7f5d831b935b
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230710
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Wertstoff/LVP(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:410235a3-2aee-40ec-a78e-f7d520af7214
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230724
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Wertstoff/LVP(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:66c146ee-efcb-49d7-af01-e2cd73c6b335
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230807
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Wertstoff/LVP(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:f7fac26e-2bb2-4c7a-af5e-5e987f6be599
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230821
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Wertstoff/LVP(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:c3497124-b9ea-4775-aafa-71113a80d4e3
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230904
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Wertstoff/LVP(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:c88d1e9e-b97e-4d9e-8db2-7e71c6c5a91c
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230918
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Wertstoff/LVP(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:dfa96d40-ee22-4071-99af-5ff9abc47328
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20231002
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Wertstoff/LVP(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:58c203a6-651b-4c11-8427-61bf28d2dca7
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20231016
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Wertstoff/LVP(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:8720dde4-08fa-459a-9334-4fb17dff6f0f
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20231030
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Wertstoff/LVP(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:b3f8457e-b338-42e5-8307-6a40e681f644
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20231113
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Wertstoff/LVP(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:6201b2d7-ca6c-4c79-8660-30a060871230
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20231127
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Wertstoff/LVP(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:004fec91-f674-49e5-a742-dbf9d49034df
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20231211
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Wertstoff/LVP(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:94bee7d8-b56e-4540-908e-962c37e194c5
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20231223
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Wertstoff/LVP(2-wöchentlich)
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:efbf771d-4afa-4f04-928c-4ab64b61c43f
+DTSTAMP:20230124T193922Z
+DESCRIPTION:Abfuhrtermine und aktuelle Störungsmeldungen auf https://www.aw
+ sh.de/service/abfuhrtermine/
+DTSTART;VALUE=DATE:20230202
+DURATION:P1D
+LOCATION:Labenz\, Alle Straßen
+SUMMARY:Tannenbaum
+TRANSP:TRANSPARENT
+URL:https://www.awsh.de/service/abfuhrtermine/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+END:VCALENDAR
