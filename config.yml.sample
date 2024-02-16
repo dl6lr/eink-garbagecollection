@@ -1,5 +1,5 @@
 output:
-    filename: abfuhr.jpg
+    filename: collection.jpg
 
 fonts:
     small: fonts/VeraSe12.pil
